@@ -9,18 +9,18 @@ This analysis uses the "Retail Store Inventory Forecasting Dataset" provided by 
 
 ## Graphs Overview
 ### 1. Monthly Sales Distribution by Category
-![Monthly Sales Distribution by Category: Clothing](images/Monthly Sales Distribution by Category Clothing.png)
-![Monthly Sales Distribution by Category: Electronics](Retail Store Analysis/images/Monthly Sales Distribution by Category Electronics.png)
+![Monthly Sales Distribution by Category: Clothing](Retail%20Store%20Analysis/images/Monthly%20Sales%20Distribution%20by%20Category%20Clothing.png)
+![Monthly Sales Distribution by Category: Electronics](Retail%20Store%20Analysis/images/Monthly%20Sales%20Distribution%20by%20Category%20Electronics.png)
 - **Description**: Tracks monthly sales of the various categories (furnitures, groceries, toys, clothing and electronics) throughout 2022 and 2023, highlighted with seasonal background colors.
 - **Insights**: Identifies peak sales periods and the impact of seasonal promotions.
 
 ### 2. Seasonality Impact on Units Sold
-![Seasonality Impact on Units Sold](Retail Store Analysis/images/Seaonality Impact on Units Sold.png)
+![Seasonality Impact on Units Sold](Retail%20Store%20Analysis/images/Seaonality%20Impact%20on%20Units%20Sold.png)
 - **Description**: Displays seasonal variation in total unit sales with a focus on percentage changes between seasons.
 - **Insights**: Highlights significant seasonal sales fluctuations, with strategic implications for inventory management.
 
 ### 3. Seasonal Distribution of Sales Percentages by Weather Condition
-![Seasonal Distribution of Sales Percentages by Weather Condition](Retail Store Analysis/images/Seasonal Distribution of Sales Percentages by Weather condition.png)
+![Seasonal Distribution of Sales Percentages by Weather Condition](Retail%20Store%20Analysis/images/Seasonal%20Distribution%20of%20Sales%20Percentages%20by%20Weather%20condition.png)
 - **Description**: Analyzes how different weather conditions affect sales percentages across seasons.
 - **Insights**: Provides insights into consumer buying behavior during various weather conditions.
 
