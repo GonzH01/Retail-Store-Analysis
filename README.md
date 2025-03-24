@@ -1,4 +1,4 @@
-# Excel Data Analysis Showcase
+# Retail Store Analysis
 
 ## Overview
 This repository demonstrates advanced Excel skills including data manipulation, pivot tables, chart creation, and regression analysis. The focus is on analyzing monthly sales distribution by category, assessing the impact of seasonality on sales, and understanding how weather conditions influence sales percentages.
