@@ -8,7 +8,7 @@ This analysis uses the "Retail Store Inventory Forecasting Dataset" provided by 
 - **Dataset Link**: [Kaggle Dataset](https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inventory-forecasting-dataset)
 
 ## Graphs Overview
-### 1. Monthly Sales Distribution by Category: Furniture
+### 1. Monthly Sales Distribution by Category
 ![Monthly Sales Distribution by Category: Furniture](/charts/Monthly_Sales_Distribution_by_Category_Furniture.png)
 - **Description**: Tracks monthly sales of furniture throughout 2022 and 2023, highlighted with seasonal background colors.
 - **Insights**: Identifies peak sales periods and the impact of seasonal promotions.
