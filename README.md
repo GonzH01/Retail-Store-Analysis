@@ -9,7 +9,7 @@ This analysis uses the "Retail Store Inventory Forecasting Dataset" provided by 
 
 ## Graphs Overview
 ### 1. Monthly Sales Distribution by Category
-![Monthly Sales Distribution by Category: Clothing](Retail Store Analysis/images/Monthly Sales Distribution by Category Clothing.png)
+![Monthly Sales Distribution by Category: Clothing](images/Monthly Sales Distribution by Category Clothing.png)
 ![Monthly Sales Distribution by Category: Electronics](Retail Store Analysis/images/Monthly Sales Distribution by Category Electronics.png)
 - **Description**: Tracks monthly sales of the various categories (furnitures, groceries, toys, clothing and electronics) throughout 2022 and 2023, highlighted with seasonal background colors.
 - **Insights**: Identifies peak sales periods and the impact of seasonal promotions.
